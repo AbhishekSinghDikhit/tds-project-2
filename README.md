@@ -2,7 +2,7 @@
 # 🌟 **TDS Project 2: Data Analyst Agent** — *AI-Powered Data Sidekick*
 
 > **A smart, interactive, and beautiful way to analyze your data — powered by Google Generative AI & cutting-edge Python tools.**
-> **Repo:** [📂 View on GitHub](https://github.com/23f1000805/tds-project-2)
+> **Repo:** [📂 View on GitHub](https://github.com/AbhishekSinghDikhit/tds-project-2)
 
 ---
 
@@ -34,7 +34,7 @@ Perfect for **business analysts, researchers, and data enthusiasts** who want **
 ---
 ## 👤 **Author & Credits**
 
-Developed with ❤️ by **[Gaurav Tomar](https://www.linkedin.com/in/gaurav-tomar-630b2a316)**
+Developed with ❤️ by **[Abhishek Singh Dikhit](https://www.linkedin.com/in/abhishek-singh-dikhit-b2995b206/)**
 
 ---
 ## 🚀 **Quick Start for more detail read `DEPLOYMENT_GUIDE.md` **
@@ -42,7 +42,7 @@ Developed with ❤️ by **[Gaurav Tomar](https://www.linkedin.com/in/gaurav-tom
 ### **1️⃣ Clone the Repository**
 
 ```bash
-git clone https://github.com/23f1000805/tds-project-2.git
+git clone https://github.com/AbhishekSinghDikhit/tds-project-2.git
 cd tds-project-2
 ```
 
